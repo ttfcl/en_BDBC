@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stockai.kro.kr/sitemap.xml
